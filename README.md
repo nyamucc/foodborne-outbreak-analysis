@@ -1,0 +1,1 @@
+## What Makes a Foodborne Outbreak Investigation Successful? An Analysis of Investigation Methods, Timeliness, and Sampling Approaches Using CDC Data
