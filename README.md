@@ -6,11 +6,9 @@ This project analyzes foodborne outbreak investigation data from the U.S. Center
 
 ## 🎯 Research Questions
 
-1. Does the type of epidemiologic investigation method affect the likelihood of identifying the outbreak agent?
-2. Do more environmental assessment visits improve the chances of identifying contributing factors?
-3. Does collecting clinical samples increase success in identifying the outbreak agent?
-4. Does faster investigation timing (e.g., quicker contact and observation) result in higher investigation success?
-
+1. How quickly are foodborne outbreaks typically identified, and what factors influence the timing of identification?
+2. How do environmental health assessment visits contribute to the effectiveness of outbreak investigations?
+3.Do operational delays differ by establishment type (e.g., restaurants vs. institutions) or menu type (complicated vs. limited)?
 ## 📊 Data Source
 
 CDC Foodborne Outbreak dataset — public health data on foodborne illness investigations in the U.S.
@@ -45,7 +43,7 @@ foodborne-outbreak-analysis/
 ### 📒 Notebooks
 
 - `01_data_cleaning_eda.ipynb` – Load, clean, and explore the data with visuals
-- `02_statistical_analysis.ipynb` – Hypothesis testing and logistic regression
+- `02_statistical_analysis.ipynb` – correlation tests and group comparisons
 - `03_report.ipynb` – Final insights, charts, and summary of findings
 
 
