@@ -26,7 +26,7 @@ CDC Foodborne Outbreak dataset — public health data on foodborne illness inves
 
 
 
-### 📒 Notebooks
+###  Notebooks
 
 - `01_data_cleaning_eda.ipynb` – Load, clean, and explore the data with visuals
 - `02_statistical_analysis.ipynb` – correlation tests and group comparisons
