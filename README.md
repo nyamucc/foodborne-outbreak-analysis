@@ -1,15 +1,15 @@
 # What Makes a Foodborne Outbreak Investigation Successful? An Analysis of Investigation Methods, Timeliness, and Sampling Approaches Using CDC Data
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes foodborne outbreak investigation data from the U.S. Centers for Disease Control and Prevention (CDC) to identify the factors that contribute to successful outbreak investigations — defined by identifying the pathogen (agent), contaminated food, and contributing factors.
 
-## 🎯 Research Questions
+## Research Questions
 
 1. How quickly are foodborne outbreaks typically identified, and what factors influence the timing of identification?
 2. How do environmental health assessment visits contribute to the effectiveness of outbreak investigations?
 3.Do operational delays differ by establishment type (e.g., restaurants vs. institutions) or menu type (complicated vs. limited)?
-## 📊 Data Source
+## Data Source
 
 CDC Foodborne Outbreak dataset — public health data on foodborne illness investigations in the U.S.
 
@@ -24,21 +24,7 @@ CDC Foodborne Outbreak dataset — public health data on foodborne illness inves
 - Statistics (SciPy, Statsmodels)
 - Vs Code
 
-## 🗂️ Project Structure
 
-foodborne-outbreak-analysis/
-├── data/
-│ ├── raw/ # Raw dataset from CDC
-│ └── processed/ # Cleaned data for analysis
-├── notebooks/
-│ ├── 01_data_cleaning_eda.ipynb
-│ ├── 02_statistical_analysis.ipynb
-│ └── 03_report.ipynb # Final summary/report (optional)
-├── output/
-│ └── figures/ # Saved visualizations
-├── requirements.txt # Python dependencies
-├── .gitignore # Ignore temp files
-└── README.md # Project overview
 
 ### 📒 Notebooks
 
